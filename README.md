@@ -1,6 +1,12 @@
 # Password Manager 🤫🤫🤫
-A GUI password manager that saves all data locally. Created using Python and Tkinter.
-_____________________________________________________________________________________
+A GUI password manager that saves all data locally. Created using Python and Tkinter.<br>
+
+If running in Linux, you may need to run in 'sudo' (to be able to create the password database on your local drive)<br>
+If you get any errors (ImportError) you may be able to fix this with 'pip install pyperclip'<br><br>
+
+![image](https://user-images.githubusercontent.com/103232802/162845696-a1cf63d8-128a-4d3d-a714-32e50d6834f9.png)
+
+________________________________________________________________________________________________________
 
 **_★ Must have Python 3.8 or higher to run game_**<br>
 <t>To check if Python 3 is installed **[in linux]**:<br>
