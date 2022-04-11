@@ -5,7 +5,7 @@ ________________________________________________________________________________
 **_★ Must have Python 3.8 or higher to run game_**<br>
 <t>To check if Python 3 is installed **[in linux]**:<br>
 `python3 --version`<br>
-**_👍 If Python 3.8 or higher, move to installing and running game._** If Python is not found or not up to date, you can install
+**_👍 If Python 3.8 or higher, move to installing and running app._** If Python is not found or not up to date, you can install
 2 ways:<br>
 <t>1. www.python.org <---- Go here, to 'Downloads' - and select your platform for latest version. You can then use the IDLE Shell
 to open and run any Python file.<br>
