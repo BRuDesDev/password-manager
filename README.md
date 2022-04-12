@@ -38,6 +38,9 @@ sudo git clone https://github.com/BRuDesDev/password-manager.git
 cd password-manager       
 </code><br>
 <code>
+pip install -r requirements.txt
+</code><br>
+<code>
 python3 main.py				
 </code><br><br>
 	
