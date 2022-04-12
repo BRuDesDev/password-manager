@@ -8,7 +8,7 @@ If you get any errors (ImportError) you may be able to fix this with 'pip instal
 
 ________________________________________________________________________________________________________
 
-**_★ Must have Python 3.8 or higher to run game_**<br>
+**_★ Must have Python 3.8 or higher to run Password Manager_**<br>
 <t>To check if Python 3 is installed **[in linux]**:<br>
 `python3 --version`<br>
 **_👍 If Python 3.8 or higher, move to installing and running app._** If Python is not found or not up to date, you can install
