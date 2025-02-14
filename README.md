@@ -1,26 +1,30 @@
-# Password Manager 🤫🤫🤫
-A GUI password manager that saves all data locally. Created using Python and Tkinter.<br>
+# Password Manager v2 🤫🔐
+
+An upgraded GUI-based password manager that securely stores user data locally. Originally built using Python and Tkinter, this revamped version now incorporates ttkbootstrap themes and styles, significantly enhancing its aesthetics.
+
+### New features include:
+	
+     	 Preview Tab – Displays user input before saving, allowing confirmation in place of the old, primitive yes/no message box.
+    	Database Tab – Provides a visual representation of all saved entries from data.json, making it easier to manage stored passwords.
+     Toggle Password - Click the 'Monkey' face to show password | Click the 'See No Evil Monkey' to toggle back to ******
+
+This update brings a sleeker interface and a more intuitive user experience! <br>
+
+### New App:
+![Screen Shot 2025-02-14 at 2 56 29 PM](https://github.com/user-attachments/assets/08822b6a-6ef3-4c38-a7f1-bdb5533fa99f)
+![Screen Shot 2025-02-14 at 2 56 55 PM](https://github.com/user-attachments/assets/80b47154-20eb-4b36-b72c-74d70097e597)
+
+
+### Old App: 
+![image](https://user-images.githubusercontent.com/103232802/162845696-a1cf63d8-128a-4d3d-a714-32e50d6834f9.png)
+__________________________________________________________________________________________
 
 If running in Linux, you may need to run in 'sudo' (to be able to create the password database on your local drive)<br>
 If you get any errors (ImportError) you need to make sure to install dependencies using: <code>pip install -r requirements.txt</code><br><br>
 
-![image](https://user-images.githubusercontent.com/103232802/162845696-a1cf63d8-128a-4d3d-a714-32e50d6834f9.png)
-
-________________________________________________________________________________________________________
-
-**_★ Must have Python 3.8 or higher to run Password Manager_**<br>
-<t>To check if Python 3 is installed **[in linux]**:<br>
-`python3 --version`<br>
-**_👍 If Python 3.8 or higher, move to installing and running app._** If Python is not found or not up to date, you can install
-2 ways:<br>
-<t>1. www.python.org <---- Go here, to 'Downloads' - and select your platform for latest version. You can then use the IDLE Shell
-to open and run any Python file.<br>
-<t>2. **_If using Linux_**, you can use the terminal:<br>
-`sudo apt update && sudo apt upgrade -y`<br>
-`sudo apt install python3 -y`<br>
 
 
-__________________________________________________________________________________________________________
+__________________________________________________________________________________________
 
 **INSTRUCTIONS** _for Installing and running the app_:<br><br>
 	
