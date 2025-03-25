@@ -22,9 +22,14 @@ ________________________________________________________________________________
 If running in Linux, you may need to run in 'sudo' (to be able to create the password database on your local drive)<br>
 If you get any errors (ImportError) you need to make sure to install dependencies using: <code>pip install -r requirements.txt</code><br><br>
 
+__________________________________________
+### Consider using Python's virtual environment BEFORE installing dependencies from 'requirements.txt': 
+
+<code>
 
 
-__________________________________________________________________________________________
+
+___________________________________________________________________________________
 
 **INSTRUCTIONS** _for Installing and running the app_:<br><br>
 	
