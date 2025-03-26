@@ -6,7 +6,7 @@ An upgraded GUI-based password manager that securely stores user data locally. O
 	
      	    Preview Tab – Displays user input before saving, allowing confirmation in place of the old, primitive yes/no message box.     		
     	   Database Tab – Provides a visual representation of all saved entries from data.json, making it easier to manage stored passwords.
-	Toggle Password - Click the 'Monkey' face to show password | Click the 'See No Evil Monkey' to toggle back to ******
+	 Toggle Password - Click the 'Monkey' face to show password | Click the 'See No Evil Monkey' to toggle back to ******
 
 This update brings a sleeker interface and a more intuitive user experience! <br>
 
@@ -20,19 +20,21 @@ This update brings a sleeker interface and a more intuitive user experience! <br
 __________________________________________________________________________________________
 
 ### [If running in Linux]:
-you may need to run in root mode (using 'sudo') to be able to create the password database on your local drive.<br>
-If you get any errors (ImportError) you need to make sure all dependencies are installed.<br> 
+⭐ you may need to run in root mode (using 'sudo') to be able to create the password database on your local drive.<br>
+⭐ If you get any errors (particularly '**ImportError**') you need to make sure all dependencies are installed.<br> 
 
-Clone repository to your system:
+### Clone repository to your system:
 ![Screen Shot 2025-03-25 at 9 20 46 AM](https://github.com/user-attachments/assets/e910153b-4393-499d-ae34-f02a100a2f61)
 
 <!> Consider using Python's virtual environment BEFORE installing dependencies from 'requirements.txt':
-<!> Check out my tutorial on 'Python virtual Environments' <a linkhere
+<!> Check out my tutorial on ' Using Python virtual Environments' @ https://bruchant.net/brudesdev/py-env-tutorial if you need help with that.
 
 ### Activate the virtual environment<br>
+If you have created a Virtual Environment, and see your venv/.venv/env (whatever you named it) folder 
+you can now activate it and install dependencies. 
 	source .venv/bin/activate <br>
 <tab><tab><!> You can verify that you have activated your new env, and also that it is the correct env: 
-	1. When you are inside a Virtual Environment
+	Check out my tutorial on Virtual Environments!! Right [Here]
 ___________________________________________________________________________________
 
 **INSTRUCTIONS** _for Installing and running the app_:<br><br>
